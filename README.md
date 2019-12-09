@@ -1,3 +1,5 @@
 # WebMeal
 
-JSON based CMS
+CMS for JSON
+
+demo // demo
