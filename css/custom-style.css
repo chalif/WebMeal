@@ -1,0 +1,12 @@
+#activeFields{
+  border:1px solid #000;
+  padding:10px;
+
+}
+
+#inactiveFields{
+  border:1px solid #000;
+  padding:10px;
+}
+
+#activeFields li, #inactiveFields li {border:1px solid #ccc;padding:4px;}

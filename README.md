@@ -1,1 +1,3 @@
 # WebMeal
+
+JSON based CMS
